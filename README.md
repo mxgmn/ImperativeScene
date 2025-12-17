@@ -6,7 +6,7 @@ This is a code repository for the paper [Procedural Scene Programs for Open-Univ
 
 Solution:
 1. Represent scenes programmatically!
-2. Correct errors in the program space!
+2. Correct errors in program space!
 
 <p align="center"><img src="images/error-correction.gif"/></p>
 
@@ -24,17 +24,21 @@ Take a perceptual study yourself: [ImperativeScene-vs-DeclarativeScene](https://
 
 
 ## How to run
-Get [SceneVisualizer](), and paste its `bin` folder into the root folder of this project. Then
+Get [SceneVisualizer](https://github.com/mxgmn/SceneVisualizer/releases), and paste its `bin` folder into the root folder of this project. Then
 ```
 python main.py
 ```
-Edit [Settings.py](optimizer/Settings.py) to select the particular task.
+Edit [Settings.py](optimizer/Settings.py) to select a particular task.
+
+To synthesize new scenes, insert your LLM API keys into [keys.py](optimizer/keys.py).
 
 
 ## Related projects
-Paper [Imperative vs. Declarative Programming Paradigms for Open-Universe Scene Generation](https://arxiv.org/abs/2504.05482).
+[Imperative vs. Declarative Programming Paradigms for Open-Universe Scene Generation](https://arxiv.org/abs/2504.05482).
 
-Paper [Open-Universe Indoor Scene Generation using LLM Program Synthesis and Uncurated Object Databases](https://arxiv.org/abs/2403.09675) and [code](https://github.com/mxgmn/DeclarativeScene).
+[Open-Universe Indoor Scene Generation using LLM Program Synthesis and Uncurated Object Databases](https://arxiv.org/abs/2403.09675).
+
+[DeclarativeScene](https://github.com/mxgmn/DeclarativeScene).
 
 <p align="center">
 <img src="images/hh1.png"/>
