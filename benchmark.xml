@@ -1,0 +1,72 @@
+<scenes>
+	<scene name="Chess Board" size="T" indoor="I" realistic="R" structured="S"/>
+	<scene name="Arcade Center" size="M" indoor="I" realistic="R" structured="C"/>
+	<scene name="Medieval Village Square" size="L" indoor="O" realistic="R" structured="C"/>
+	<scene name="Stonehenge" size="L" indoor="O" realistic="F" structured="S"/>
+	<scene name="Chess Tournament Hall" size="M" indoor="I" realistic="R" structured="S"/>
+	<scene name="Classroom" size="T" indoor="I" realistic="R" structured="S"/>
+	<scene name="Opera" size="L" indoor="I" realistic="R" structured="S"/>
+	<scene name="College Gym" size="L" indoor="I" realistic="R" structured="S"/>
+	<scene name="Supermarket" size="L" indoor="I" realistic="R" structured="S"/>	
+	<scene name="Competitive FPS Level" size="L" indoor="I" realistic="F" structured="C"/>
+	<scene name="Obstacle Course" size="M" indoor="O" realistic="R" structured="S"/>
+	<scene name="Factory Floor" size="L" indoor="I" realistic="R" structured="S"/>	
+	<scene name="Hedge Maze" size="L" indoor="O" realistic="F" structured="S"/>
+	<scene name="Courtroom" size="M" indoor="I" realistic="R" structured="S"/>
+	<scene name="Race Track Section" size="L" indoor="O" realistic="R" structured="S"/>
+	<scene name="City Park" size="L" indoor="O" realistic="R" structured="C"/>
+	<scene name="Parking Lot" size="M" indoor="O" realistic="R" structured="S"/>
+	<scene name="Hair Salon" size="M" indoor="I" realistic="R" structured="S"/>
+	<scene name="Skyward Kingdom" size="L" indoor="O" realistic="F" structured="C"/>
+	<scene name="Living Room" size="T" indoor="I" realistic="R" structured="C"/>
+	<scene name="Modern Open-Plan Office" size="M" indoor="I" realistic="R" structured="C"/>
+	<scene name="Restaurant" size="M" indoor="I" realistic="R" structured="S"/>
+	<scene name="Wizard's Laboratory" size="T" indoor="I" realistic="F" structured="C"/>
+	<scene name="Garage for 2 Cars" size="T" indoor="I" realistic="R" structured="C"/>
+	<scene name="Bathroom with a Bathtub" size="T" indoor="I" realistic="R" structured="C"/>
+	<scene name="Mancave" size="T" indoor="I" realistic="R" structured="C"/>
+	<scene name="Kindergarten" size="M" indoor="I" realistic="R" structured="C"/>
+	<scene name="Classic Art Gallery" size="M" indoor="I" realistic="R" structured="S"/>
+	<scene name="Spaceship Cabin" size="T" indoor="I" realistic="F" structured="S"/>
+	<scene name="Electronics Shop" size="M" indoor="I" realistic="R" structured="S"/>
+	<scene name="Futuristic Command Center" size="M" indoor="I" realistic="F" structured="S"/>
+	<scene name="Library" size="M" indoor="I" realistic="R" structured="S"/>
+	<scene name="Vegan Cafe" size="M" indoor="I" realistic="R" structured="C"/>
+	<scene name="Indiana Jones Filming Set" size="M" indoor="I" realistic="F" structured="C"/>
+	<scene name="Post-Apocalyptic Campsite" size="M" indoor="O" realistic="F" structured="C"/>
+	<scene name="Forest Clearing" size="L" indoor="O" realistic="R" structured="C"/>
+	<scene name="Circus" size="L" indoor="I" realistic="R" structured="S"/>
+	<scene name="Laundromat" size="M" indoor="I" realistic="R" structured="S"/>
+	<scene name="Sheep Farm" size="M" indoor="O" realistic="R" structured="C"/>
+	<scene name="City Block" size="L" indoor="O" realistic="R" structured="C"/>
+	<scene name="Casino" size="L" indoor="I" realistic="R" structured="S"/>
+	<scene name="Graveyard" size="M" indoor="O" realistic="R" structured="S"/>
+	<scene name="Pirate Ship Deck" size="M" indoor="O" realistic="F" structured="S"/>
+	<scene name="Lich King's Throneroom" size="M" indoor="I" realistic="F" structured="S"/>
+	<scene name="Ancient Temple" size="M" indoor="I" realistic="F" structured="S"/>
+	<scene name="Treetop House" size="T" indoor="I" realistic="R" structured="C"/>
+	<scene name="Astronomy Observatory" size="M" indoor="I" realistic="R" structured="S"/>
+	<scene name="History Museum Hall" size="M" indoor="I" realistic="R" structured="S"/>
+	<scene name="Amusement Park" size="L" indoor="O" realistic="R" structured="C"/>
+	<scene name="Gun Shop" size="T" indoor="I" realistic="R" structured="S"/>
+	<scene name="Rogue Encampment" size="L" indoor="O" realistic="F" structured="C"/>
+	<scene name="Depths of Hell" size="M" indoor="I" realistic="F" structured="C"/>
+	<scene name="Barbie's Dream House" size="T" indoor="I" realistic="F" structured="C"/>
+	<scene name="Prison Cell" size="T" indoor="I" realistic="R" structured="C"/>
+	<scene name="Spacious Kitchen for a Family of 12" size="M" indoor="I" realistic="R" structured="S"/>
+	<scene name="Wine Cellar" size="T" indoor="I" realistic="R" structured="S"/>
+	<scene name="Florist Shop" size="M" indoor="I" realistic="R" structured="C"/>
+	<scene name="Greenhouse" size="T" indoor="I" realistic="R" structured="S"/>
+	<scene name="Jurassic Park" size="L" indoor="O" realistic="F" structured="C"/>
+	<scene name="Wild West Saloon" size="M" indoor="I" realistic="F" structured="C"/>
+	<scene name="Cloudborne Pantheon" size="M" indoor="I" realistic="F" structured="S"/>
+	<scene name="Cat Cafe with Catwalks" size="M" indoor="I" realistic="R" structured="C"/>
+	<scene name="Bouldering Gym" size="M" indoor="I" realistic="R" structured="S"/>
+	<scene name="Data Center" size="M" indoor="I" realistic="R" structured="S"/>
+	<scene name="Botanical Garden" size="M" indoor="O" realistic="R" structured="C"/>
+	<scene name="Ice City" size="L" indoor="O" realistic="F" structured="C"/>
+	<scene name="Stables" size="M" indoor="I" realistic="R" structured="S"/>
+	<scene name="Dark Fortress Gate" size="M" indoor="O" realistic="F" structured="S"/>
+	<scene name="Railway Station Platform" size="L" indoor="O" realistic="R" structured="S"/>
+	<scene name="Construction Site" size="L" indoor="O" realistic="R" structured="C"/>
+</scenes>
